@@ -15,7 +15,7 @@ Utility Library which makes ground storage block entities emit light if their it
 
 ## Download
 
-1. [ModDB]()
+1. [ModDB](https://mods.vintagestory.at/show/mod/41117)
 2. [Releases](https://github.com/pmarincak/lit-ground-storage-lib/releases)
 
 ## Maintainers & Contribution
