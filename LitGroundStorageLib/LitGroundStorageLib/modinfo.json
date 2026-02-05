@@ -4,9 +4,9 @@
     "modid": "litgroundstoragelib",
     "name": "LitGroundStorageLib",
     "authors": [
-        "Unknown"
+      "azurempress"
     ],
-    "description": "To be added",
+    "description": "Utility Library which makes ground storage block entities emit light if their item emits light.",
     "version": "1.0.0",
     "dependencies": {
         "game": "1.21.0"

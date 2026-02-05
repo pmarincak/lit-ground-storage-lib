@@ -1,0 +1,14 @@
+[
+	{
+		"file": "game:blocktypes/groundstorage.json",
+		"op": "replace",
+		"path": "/class",
+		"value": "LitBlockGroundStorage"
+	},
+	{
+		"file": "game:blocktypes/groundstorage.json",
+		"op": "replace",
+		"path": "/entityClass",
+		"value": "LitBlockEntityGroundStorage"
+	}
+]
