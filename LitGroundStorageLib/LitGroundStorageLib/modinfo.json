@@ -1,14 +1,15 @@
 {
-    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
-    "type": "Code",
-    "modid": "litgroundstoragelib",
-    "name": "LitGroundStorageLib",
-    "authors": [
-      "azurempress"
-    ],
-    "description": "Utility Library which makes ground storage block entities emit light if their item emits light.",
-    "version": "1.0.0",
-    "dependencies": {
-        "game": "1.21.0"
-    }
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Code",
+  "modid": "litgroundstoragelib",
+  "name": "LitGroundStorageLib",
+  "authors": [
+    "azurempress"
+  ],
+  "description": "Utility Library which makes ground storage block entities emit light if their item emits light.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.21.0"
+  },
+  "website": "https://github.com/pmarincak/lit-ground-storage-lib"
 }
